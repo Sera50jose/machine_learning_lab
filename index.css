@@ -1,0 +1,27 @@
+html,body{
+    margin:0;
+    padding:0;
+    font-family:'Rubik',sans-serif;
+    background-color:white;
+}
+.container{
+    display:flex;
+    flex-direction:column;
+    max-width:220px;
+    margin:20px auto;
+}
+img{
+    width:250px;
+    margin:0px auto;
+}
+input{
+    color:#432000;
+    background-color: #DCE1E8;
+    border:0;
+    padding:15px;
+    border-radius: 8px;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Rubik',sans-serif;
+    margin-bottom: 15px;
+}
